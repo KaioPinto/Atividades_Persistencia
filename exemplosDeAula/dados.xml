@@ -1,0 +1,33 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<passageiros>
+    <passageiro>
+        <nome>
+            Paulo
+        </nome>
+        <idade>
+            25
+        </idade>
+        <ticket>
+            01
+        </ticket>
+        <origem>
+            Paraiba
+        </origem>
+    </passageiro>
+    <passageiro>
+        <nome>
+            Luiz
+        </nome>
+        <idade>
+            33
+        </idade>
+        <ticket>
+            012
+        </ticket>
+        <origem>
+            Paraiba
+        </origem>
+    </passageiro>
+</passageiros>
+
+    
